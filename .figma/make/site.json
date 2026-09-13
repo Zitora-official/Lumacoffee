@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a pixel-perfect mobile-responsive interface that ensures seamless user experience with consistent design and intuitive navigation on any device.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

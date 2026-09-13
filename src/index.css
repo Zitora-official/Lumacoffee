@@ -1,0 +1,43 @@
+@import 'tailwindcss';
+
+@font-face {
+  font-family: "Sour Gummy:Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://static.figma.com/font/SourGummy_wdth_wght__1") format("woff2");
+}
+
+@font-face {
+  font-family: "Sour Gummy:Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://static.figma.com/font/SourGummy_wdth_wght__1") format("woff2");
+}
+
+@font-face {
+  font-family: "Readex Pro:Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://static.figma.com/font/ReadexPro_HEXP_wght__2") format("woff2");
+}
+
+@font-face {
+  font-family: "Readex Pro:SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("https://static.figma.com/font/ReadexPro_HEXP_wght__2") format("woff2");
+}
+
+@font-face {
+  font-family: "Readex Pro:Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://static.figma.com/font/ReadexPro_HEXP_wght__2") format("woff2");
+}
+
+@font-face {
+  font-family: "Readex Pro:Light";
+  font-style: normal;
+  font-weight: 300;
+  src: url("https://static.figma.com/font/ReadexPro_HEXP_wght__2") format("woff2");
+}
